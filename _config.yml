@@ -1,0 +1,25 @@
+title: "Dorset Geology"
+description: Geological features in Dorset
+# remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
+url: https://dorsetgeology.github.io
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/DorsetGeology.png"
+search_enabled: true
+# Enable or disable the search button that appears in the bottom right corner of every page
+# Supports true or false (default)
+search.button: true
+# Aux links for the upper right navigation
+# aux_links:
+#  "Somerset Environmental Records Centre":
+#    - "//www.somerc.com/"
+
+# Makes Aux links open in a new tab. Default is false
+# aux_links_new_tab: true
+# External navigation links
+nav_external_links:
+  - title: SERC
+    url: https://www.somerc.com/
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+# plugins:
+#  - jekyll-default-layout
