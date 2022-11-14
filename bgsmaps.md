@@ -17,15 +17,15 @@ nav_order: 4
 </tbody>
 <tbody>
   <tr>
-    <td>326<br>Sidmouth</td>
-    <td colspan="2">327<br>Bridport</td>
-    <td colspan="2">328<br>Dorchester</td>
-    <td colspan="2">329<br>Bournemouth</td>
+    <th>326<br>Sidmouth</th>
+    <th colspan="2">327<br>Bridport</th>
+    <th colspan="2">328<br>Dorchester</th>
+    <th colspan="2">329<br>Bournemouth</th>
   </tr>
   <tr>
-    <td></td>
-    <td colspan="3">341 &amp; 342(W)<br>West Fleet &amp; Weymouth</td>
-    <td colspan="3">342(E) &amp; 343<br>Swanage</td>
+    <th></th>
+    <th colspan="3">341 &amp; 342(W)<br>West Fleet &amp; Weymouth</th>
+    <th colspan="3">342(E) &amp; 343<br>Swanage</th>
   </tr>
 </tbody>
 </table>
