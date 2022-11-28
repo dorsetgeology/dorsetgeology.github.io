@@ -4,21 +4,9 @@ has_children: false
 nav_order: 2
 ---
 
-<div style = "height: 360px" id="map"></div>
-<script>
-	const map = L.map('map').setView([51.13, -3.10], 9);
-
-	const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-		maxZoom: 19,
-		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-	}).addTo(map);
-	map.addControl(new L.Control.Fullscreen());
-	L.control.mousePosition().addTo(map);
- </script>
- 
 # Geological Conservation Review Sites
 
-<iframe src="https://dorsetgeology.github.io/gcr-csv/index.html" style="height:400px; width:100%;" title="Dorset GCR Sites"></iframe>
+<iframe allowfullscreen src="https://dorsetgeology.github.io/gcr-csv/index.html" style="height:400px; width:100%;" title="Dorset GCR Sites"></iframe>
 
 The Geological Conservation Review (GCR) is the register of known nationally and internationally important Earth science (geological and geomorphological) sites in Great Britain. The GCR underpins designation of Earth science features in Sites of Special Scientific Interest (SSSIs). The majority of GCR sites, therefore, now have statutory protection through designation as notified features in SSSIs.
 
