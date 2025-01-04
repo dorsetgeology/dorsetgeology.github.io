@@ -13,4 +13,3 @@ https:/dorsetgeology.github.io/
 
 ## Bibliography
 
-{% bibliography %}
