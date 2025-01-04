@@ -10,3 +10,7 @@ nav_order: 1
 Geological features in Dorset. 
 
 https:/dorsetgeology.github.io/
+
+## Bibliography
+
+{% bibliography %}
