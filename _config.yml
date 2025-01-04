@@ -2,6 +2,7 @@ title: "Dorset Geology"
 description: Geological features in Dorset
 remote_theme: just-the-docs/just-the-docs
 # remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
+# remote_theme: just-the-docs/just-the-docs@v0.9.0
 url: https://dorsetgeology.github.io
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/DorsetGeology.png"
